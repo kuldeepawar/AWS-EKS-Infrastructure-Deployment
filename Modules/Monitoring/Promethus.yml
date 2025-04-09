@@ -1,0 +1,14 @@
+grafana:
+  adminPassword: admin123
+  service:
+    type: LoadBalancer
+
+prometheus:
+  service:
+    type: ClusterIP
+server:
+  resources:
+    limits:
+      memory: 512Mi
+    requests:
+      memory: 256Mi
