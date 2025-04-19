@@ -1,0 +1,3 @@
+[submodule ".terraform/modules/eks.kms"]
+	path = .terraform/modules/eks.kms
+	url = https://github.com/kuldeepawar/AWS-EKS-Infrastructure-Deployment.git/eks.kms.git
