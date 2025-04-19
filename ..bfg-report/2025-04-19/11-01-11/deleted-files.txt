@@ -1,0 +1,2 @@
+44534436b7d31a7abce3e30b53419402be5297ba 704925696 terraform-provider-aws_v5.95.0_x5.exe
+ecd490bb8c4103697a81f888b45084accdabaee5 55018496 terraform-provider-kubernetes_v2.36.0_x5.exe
